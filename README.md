@@ -7,9 +7,9 @@
 - 📫 How to reach me - through mail => **kashishgarh89.5@gmail.com** , **[Kaggle](https://www.kaggle.com/celebi07)**
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Celebi07](https://github.com/Celebi07)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Celebi07)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15FBvMtQXeE4Ar4C2iNWkOhjikYgQVzF8/view?usp=sharing](https://drive.google.com/file/d/15FBvMtQXeE4Ar4C2iNWkOhjikYgQVzF8/view?usp=sharing)
+- 📄 Know about my experiences [ResumeKashishGarg](https://drive.google.com/file/d/1-9xNjpL0WM2VLKy7lXTcbCLfUaqeRxUr/view?usp=sharing)
 
 - ⚡ Fun fact **"Believer in the power of smiles – I've never met a frown that a friendly grin couldn't brighten. 😄"**
 
