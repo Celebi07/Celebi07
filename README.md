@@ -1,35 +1,56 @@
-<h1 align="center">Hi 👋, I'm Kashish Garg</h1>
-<h3 align="center">A passionate AI/ML enthusiast</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+👋;Let's+embark+on+a+coding+journey+🚀;Let's+learn+and+grow+together!+🌟)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=celebi07&label=Profile%20views&color=0e75b6&style=flat" alt="celebi07" /> </p>
+- 👋 Hi, I’m $Kashish$ $Garg$
+- 👀 I’m interested in $Deep$ $Learning$/ $Neural$ $Networks$ , $Machine$ $Learning$ , $NLP$
+- 🌱 I’m currently learning $Transformers$ and $Large$ $Language$ $Models$
+- 💞️ I’m looking to collaborate on $Github$
+- 📫 How to reach me - through mail => **kashishgarh89.5@gmail.com** , **[Kaggle](https://www.kaggle.com/celebi07)**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=celebi07" alt="celebi07" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Celebi07](https://github.com/Celebi07)
-
-- 📫 How to reach me **kashishgarg89.5@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15FBvMtQXeE4Ar4C2iNWkOhjikYgQVzF8/view?usp=sharing](https://drive.google.com/file/d/15FBvMtQXeE4Ar4C2iNWkOhjikYgQVzF8/view?usp=sharing)
 
 - ⚡ Fun fact **"Believer in the power of smiles – I've never met a frown that a friendly grin couldn't brighten. 😄"**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@vishi__03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vishi__03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kashish-garg-5593721b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashish-garg-5593721b3" height="30" width="40" /></a>
-<a href="https://kaggle.com/rosalia07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rosalia07" height="30" width="40" /></a>
-<a href="https://instagram.com/vishi__03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishi__03" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@kashishgarg7521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kashishgarg7521" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vishi03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishi03" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kashish13407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kashish13407" height="30" width="40" /></a>
-<a href="https://discord.gg/#5892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5892" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/@vishi__03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kashish-garg-5593721b3)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://kaggle.com/rosalia07)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/vishi__03)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/c/@kashishgarg7521)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/vishi03)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://www.leetcode.com/kashish13407)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#5892)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=celebi07&show_icons=true&locale=en&layout=compact" alt="celebi07" /></p>
+# 💻 Languages and Tools:
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%2300599C.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
+[![Flask](https://img.shields.io/badge/Flask-%2300599C.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-%2300599C.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-%2300599C.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%2300599C.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%2300599C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![React](https://img.shields.io/badge/React-%2300599C.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%2300599C.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%2300599C.svg?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=celebi07&show_icons=true&locale=en" alt="celebi07" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=celebi07&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=celebi07&theme=solarized-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=celebi07&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=celebi07&" alt="celebi07" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=celebi07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=celebi07&label=Profile%20views&color=0e75b6&style=flat" alt="celebi07" /> </p>
+
