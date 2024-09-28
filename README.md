@@ -4,7 +4,7 @@
 - 👀 I’m interested in $Deep$ $Learning$/ $Neural$ $Networks$ , $Machine$ $Learning$ , $NLP$
 - 🌱 I’m currently learning $Transformers$ and $Large$ $Language$ $Models$
 - 💞️ I’m looking to collaborate on $Github$
-- 📫 How to reach me - through mail => **kashishgarh89.5@gmail.com** , **[Kaggle](https://www.kaggle.com/celebi07)**
+- 📫 How to reach me - through mail => **kashishgarg89.5@gmail.com** , **[Kaggle](https://www.kaggle.com/celebi07)**
 
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Celebi07)
