@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Celebi07)
 
-- 📄 Know about my experiences [ResumeKashishGarg](https://drive.google.com/file/d/1nfP2uT_GHUlwsvW-Jf9a8Jmuil_Renx3/view?usp=sharing)
+- 📄 Know about my experiences [ResumeKashishGarg](https://drive.google.com/file/d/10eo0ZJf3jJDlNO3_S8HK0u-DB0kd31x6/view?usp=sharing)
 
 - ⚡ Fun fact **"Believer in the power of smiles – I've never met a frown that a friendly grin couldn't brighten. 😄"**
 
